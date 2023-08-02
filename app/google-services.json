@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838188849094",
+    "project_id": "earnxtra-59e8a",
+    "storage_bucket": "earnxtra-59e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838188849094:android:942abb460df6ab55aa44c7",
+        "android_client_info": {
+          "package_name": "com.lymors.earnxtra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838188849094-jbo0c4ks201g7v0d09mg8e7ktcj609kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByK0sLhGAwliExr37SQRkA_XaKnXhySFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838188849094-jbo0c4ks201g7v0d09mg8e7ktcj609kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

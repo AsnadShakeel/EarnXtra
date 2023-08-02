@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/nav_quote"
+        android:title="Quote"
+        android:icon="@drawable/ic_quote"/>
+    <item
+        android:id="@+id/nav_quiz"
+        android:title="Quiz"
+        android:icon="@drawable/ic_quiz"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"/>
+
+    <item
+        android:id="@+id/nav_notification"
+        android:title="Notifications"
+        android:icon="@drawable/ic_notification"/>
+
+</menu>
